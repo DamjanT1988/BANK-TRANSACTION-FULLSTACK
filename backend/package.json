@@ -1,0 +1,15 @@
+
+{
+  "name": "transaction-management-backend",
+  "version": "1.0.0",
+  "description": "Backend API for Transaction Management App",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "uuid": "^9.0.0"
+  }
+}
