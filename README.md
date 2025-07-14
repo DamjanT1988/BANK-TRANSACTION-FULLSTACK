@@ -107,9 +107,3 @@ A VS Code Dev Container is provided for a consistent development environment:
     ├── package.json         # Frontend dependencies and scripts
     └── cypress/             # End-to-end tests
 ```
-
-## Contributing
-Contributions are welcome! Please open an issue or submit a pull request.
-
-## License
-This project is licensed under the **MIT License**.
